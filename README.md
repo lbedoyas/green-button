@@ -2,6 +2,8 @@
 
 This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.14.
 
+el ejemplo se basó en el siguiente video: https://www.youtube.com/watch?v=b-uFn3RjajA&t=547s
+
 ## Code scaffolding
 
 Run `ng generate component component-name --project green-button` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module --project green-button`.
