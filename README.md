@@ -2,7 +2,7 @@
 
 This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.14.
 
-el ejemplo se basó en el siguiente video: https://www.youtube.com/watch?v=b-uFn3RjajA&t=547s
+the example was based of next video: https://www.youtube.com/watch?v=b-uFn3RjajA&t=547s
 
 ## Code scaffolding
 
